@@ -1,16 +1,6 @@
 
 # Washify Laundry Booking App for IOS and Android Applications
 
-
-
-## Authors
-
-- [@Aakash Raj](https://www.github.com/easyans)
-- [@Sai Medha Sinha]()
-- [@Dr.A. Helen Victoria]()
-
-
-
 ## Abstract
 
 [Abstract](https://linktodocumentation): 
